@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HerbertWang
+- 👋 Hi, I’m @HerbertWang Somtimes using my another account--wlres812103922
 - 👀 I’m interested in Web design
 - 🌱 I’m currently learning Machine learning and Vue
 - 💞️ I’m looking to collaborate on Internet Companies
